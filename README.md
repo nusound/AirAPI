@@ -1,3 +1,3 @@
 # RAILS AIRAPI
 
-AirAPI
+AirAPI app
